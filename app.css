@@ -25,7 +25,7 @@ body {
 
 #mainNavbar {
     font-size: 1.5rem;
-    font-weight: 100;    
+    font-weight: 400;    
 }
 
 #mainNavbar .nav-link {
@@ -60,7 +60,8 @@ body {
   }
 
 .navbar.scrolled {
-    background: #999b9d;
+    background: #bcbcbc;
+    opacity: 0.5;
     transition: background 500ms;
 }
 
