@@ -51,9 +51,13 @@ body {
     font-size: 4rem;
 }
 
-#my-carousel {
+#mycarousel {
     margin-top: 52px;
 }
+
+.carousel-fade .carousel-inner .carousel-item {
+    transition-duration: 7s;
+  }
 
 .navbar.scrolled {
     background: #999b9d;
