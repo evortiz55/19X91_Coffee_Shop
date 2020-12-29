@@ -37,6 +37,11 @@ body {
     margin-bottom: 35px;
 }
 
+#contact-details .form-control {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
 #whatsapp {
     display: inline-block;
 }
@@ -88,6 +93,13 @@ body {
 #footer {
     font-size: 0.5rem;
 }
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
 
 .carousel-fade .carousel-inner .carousel-item {
     transition-duration: 7s;
