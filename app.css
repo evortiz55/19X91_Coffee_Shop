@@ -23,6 +23,36 @@ body {
     width: 100%;
 }
 
+.social-media {
+    font-size: 2rem;
+    color: rgb(120,118,109);
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.content {
+    margin-bottom: 35px;
+}
+
+#whatsapp {
+    display: inline-block;
+}
+
+#whatsapp .btn-link:hover {
+    color: green;
+}
+
+#instagram {
+    display: inline-block;
+}
+
+#instagram .btn-link:hover {
+    color: brown;
+}
+
 #mainNavbar {
     font-size: 1.5rem;
     font-weight: 400;    
@@ -53,6 +83,10 @@ body {
 
 #mycarousel {
     margin-top: 52px;
+}
+
+#footer {
+    font-size: 0.5rem;
 }
 
 .carousel-fade .carousel-inner .carousel-item {
